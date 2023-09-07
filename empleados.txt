@@ -1,5 +1,3 @@
-Juan,Asalariado,3000.0
-Maria,Por Horas,600.0
-Ana,Asalariado,3500.0
-Adonis,Asalariado,4000.0
-Carlos,Por Horas,540.0
+Juana,Asalariado,4000.0,Activo
+Maria,Por Horas,900.0,Activo
+Juana2run,Asalariado,4000.0,Activo
